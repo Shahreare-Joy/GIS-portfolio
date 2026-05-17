@@ -1,0 +1,6 @@
+node_modules/
+dist/
+tmp/
+.codex-vite.log
+*.tsbuildinfo
+Fundamentals_of_Geographic_Information_systems_export/
